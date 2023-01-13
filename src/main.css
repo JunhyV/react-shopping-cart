@@ -1,0 +1,12 @@
+:root{
+    --black: #000000;
+    --gray: #dfdfdf;
+    --purple: #363073; 
+    --light-purple: #8983c4;
+    --green: #dbff00;
+}
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Inconsolata', monospace;
+}
